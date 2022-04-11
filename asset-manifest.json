@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactLocalCommunityPage/static/css/main.e0829a61.css",
+    "main.js": "/ReactLocalCommunityPage/static/js/main.5f52f80b.js",
+    "index.html": "/ReactLocalCommunityPage/index.html",
+    "main.e0829a61.css.map": "/ReactLocalCommunityPage/static/css/main.e0829a61.css.map",
+    "main.5f52f80b.js.map": "/ReactLocalCommunityPage/static/js/main.5f52f80b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0829a61.css",
+    "static/js/main.5f52f80b.js"
+  ]
+}
