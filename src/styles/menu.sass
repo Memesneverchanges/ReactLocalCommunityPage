@@ -1,0 +1,62 @@
+.Menu
+    user-select: none 
+    left: 0
+    position: fixed
+    width: 100%
+    height: 50px
+    top:0%
+    z-index: 100
+    background-color: black
+    display: flex
+    flex-direction: row
+    align-items: center
+
+.Menu div
+    color: white
+    font-size: 22px
+    font-weight: 400
+    cursor: context-menu
+
+.MenuLeftBar
+    display: flex
+    flex-direction: row
+    align-items: center
+    width: 80%
+
+
+.MenuHeader
+    color: white
+    font-size: 25px
+    margin:0 7px 0 7px 
+
+.MenuSelection 
+    margin: 0 7px 0 7px 
+
+.MenuSelection:hover
+    background: repeating-linear-gradient(crimson, orange, yellow, green,blue,purple)
+    animation: MenuSelection1 11s infinite
+    -webkit-background-clip: text
+    -webkit-text-fill-color: transparent
+    cursor: pointer
+
+.MenuSelection:active
+    color: grey
+    cursor: pointer
+
+
+@keyframes MenuSelection1
+    100% 
+        background-position: 0 200px
+
+.MenuRightBar
+    display: flex
+    flex-direction: row
+    align-items: center
+
+.MenuRightBarItem
+    display: flex
+    flex-direction: row
+    margin:0 7px 0 7px 
+
+.MenuLabel
+    margin:0 7px 0 0 
