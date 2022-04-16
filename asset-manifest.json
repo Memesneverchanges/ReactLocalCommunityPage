@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ReactLocalCommunityPage/static/css/main.f70f36ed.css",
-    "main.js": "/ReactLocalCommunityPage/static/js/main.665c2a1a.js",
+    "main.css": "/ReactLocalCommunityPage/static/css/main.de0898d2.css",
+    "main.js": "/ReactLocalCommunityPage/static/js/main.2a53480f.js",
     "static/media/Flexing-ricardo.gif": "/ReactLocalCommunityPage/static/media/Flexing-ricardo.349e705b5752644f438e.gif",
     "static/media/Drinking.gif": "/ReactLocalCommunityPage/static/media/Drinking.489c0a7bd0d8cad5c49c.gif",
     "static/media/Perfomance-artist.gif": "/ReactLocalCommunityPage/static/media/Perfomance-artist.440b62bf5657f4a827e1.gif",
     "static/media/Billi-rolling.gif": "/ReactLocalCommunityPage/static/media/Billi-rolling.17125b1faeff10412f86.gif",
     "static/media/space.png": "/ReactLocalCommunityPage/static/media/space.4e6ea1d63d6616009c05.png",
     "index.html": "/ReactLocalCommunityPage/index.html",
-    "main.f70f36ed.css.map": "/ReactLocalCommunityPage/static/css/main.f70f36ed.css.map",
-    "main.665c2a1a.js.map": "/ReactLocalCommunityPage/static/js/main.665c2a1a.js.map"
+    "main.de0898d2.css.map": "/ReactLocalCommunityPage/static/css/main.de0898d2.css.map",
+    "main.2a53480f.js.map": "/ReactLocalCommunityPage/static/js/main.2a53480f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f70f36ed.css",
-    "static/js/main.665c2a1a.js"
+    "static/css/main.de0898d2.css",
+    "static/js/main.2a53480f.js"
   ]
 }
