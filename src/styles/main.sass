@@ -1,5 +1,5 @@
 body
-    background: fixed url('./media/images/Flexing-ricardo.gif')  center /900px no-repeat,url('./media/images/space.png') no-repeat center rgb(76, 15, 126)
+    background: fixed url('./media/images/Flexing-ricardo.gif')  center /900px no-repeat,url('./media/images/space.png') no-repeat  center rgb(76, 15, 126)
     margin:  20px 15px
     font-size: 16px
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
@@ -31,10 +31,13 @@ body
     border-radius: 15px
     margin-bottom: 10px
 
+@media screen and (max-width:768px) 
+    .header
+        flex-direction: column-reverse 
+        align-items: center
 .headerimage
-    margin: 10px
-    width: 300px
-    height: 220px
+    width: 220px
+    height: 160px
     border-radius: 12px
     box-shadow: 7px 5px 11px 4px rgb(0 0 255 / 20%)
     background-image: url('./media/images/Perfomance-artist.gif')
@@ -60,6 +63,10 @@ body
     margin-left: 10px
     min-width: 400px
 
+@media screen and (max-width:768px) 
+    .HeadersMenu
+        display: none
+
 .HeadersMenuContainer h1
     margin-top: 10px
     border-bottom: 1px solid black
@@ -80,6 +87,7 @@ body
     margin-bottom: 0
 
 .MessageContainer
+    margin-top: 5px
     border:  10px solid transparent
     background-color: rgba(129, 119, 190, 0.9)
     border-radius: 10px

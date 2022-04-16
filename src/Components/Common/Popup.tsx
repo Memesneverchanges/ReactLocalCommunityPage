@@ -3,7 +3,7 @@ export function Popup(props: { visible: boolean, width: string | number, height:
   return (
     <>
       <div className="overlay" style={{ visibility: props.visible ? 'visible' : 'hidden' }}>
-        <div className="form" style={{ height: props.height, width: props.width }}>
+        <div className="form" >
           {props.children}
         </div>
       </div>
