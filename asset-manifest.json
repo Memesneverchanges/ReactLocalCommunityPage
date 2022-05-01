@@ -1,18 +1,33 @@
 {
   "files": {
-    "main.css": "/ReactLocalCommunityPage/static/css/main.de0898d2.css",
-    "main.js": "/ReactLocalCommunityPage/static/js/main.2a53480f.js",
+    "main.css": "/ReactLocalCommunityPage/static/css/main.902adac8.css",
+    "main.js": "/ReactLocalCommunityPage/static/js/main.39cc6f78.js",
     "static/media/Flexing-ricardo.gif": "/ReactLocalCommunityPage/static/media/Flexing-ricardo.349e705b5752644f438e.gif",
     "static/media/Drinking.gif": "/ReactLocalCommunityPage/static/media/Drinking.489c0a7bd0d8cad5c49c.gif",
     "static/media/Perfomance-artist.gif": "/ReactLocalCommunityPage/static/media/Perfomance-artist.440b62bf5657f4a827e1.gif",
+    "static/media/spare.gif": "/ReactLocalCommunityPage/static/media/spare.5aa5b16a42c80f153175.gif",
+    "static/media/announce.gif": "/ReactLocalCommunityPage/static/media/announce.8b9581cec4a34052b0e9.gif",
     "static/media/Billi-rolling.gif": "/ReactLocalCommunityPage/static/media/Billi-rolling.17125b1faeff10412f86.gif",
     "static/media/space.png": "/ReactLocalCommunityPage/static/media/space.4e6ea1d63d6616009c05.png",
+    "static/media/aiTurn.gif": "/ReactLocalCommunityPage/static/media/aiTurn.0f3b81ef039dab59144b.gif",
+    "static/media/userTurn.gif": "/ReactLocalCommunityPage/static/media/userTurn.d09cc5aaa44c634bf9c3.gif",
+    "static/media/spare.mp3": "/ReactLocalCommunityPage/static/media/spare.da284e16266bd94d637e.mp3",
+    "static/media/YEEEEEAAAAHHH.mp3": "/ReactLocalCommunityPage/static/media/YEEEEEAAAAHHH.61dfb050fea06c2c2212.mp3",
+    "static/media/Stick-your-finger.mp3": "/ReactLocalCommunityPage/static/media/Stick-your-finger.d6c773ef72efc842c290.mp3",
+    "static/media/Fuck-you-leather-man.mp3": "/ReactLocalCommunityPage/static/media/Fuck-you-leather-man.d42faccdb79d099598c9.mp3",
+    "static/media/come-on-college-boy.mp3": "/ReactLocalCommunityPage/static/media/come-on-college-boy.d8d6b598984657b12632.mp3",
+    "static/media/oh-my-shoulder.mp3": "/ReactLocalCommunityPage/static/media/oh-my-shoulder.a1aaebd0b66b8f545128.mp3",
+    "static/media/Boss_in_this_gym.mp3": "/ReactLocalCommunityPage/static/media/Boss_in_this_gym.6f0edefcb7cc18623e23.mp3",
+    "static/media/OrgasmVan.mp3": "/ReactLocalCommunityPage/static/media/OrgasmVan.cdf21cc4027dc7502b1d.mp3",
+    "static/media/aiBox.png": "/ReactLocalCommunityPage/static/media/aiBox.12a27e39faed67d302d9.png",
+    "static/media/userBox.png": "/ReactLocalCommunityPage/static/media/userBox.4d2f73ae77cf9d132c27.png",
+    "static/media/WOO.mp3": "/ReactLocalCommunityPage/static/media/WOO.7f40dd8d9f100e75e290.mp3",
     "index.html": "/ReactLocalCommunityPage/index.html",
-    "main.de0898d2.css.map": "/ReactLocalCommunityPage/static/css/main.de0898d2.css.map",
-    "main.2a53480f.js.map": "/ReactLocalCommunityPage/static/js/main.2a53480f.js.map"
+    "main.902adac8.css.map": "/ReactLocalCommunityPage/static/css/main.902adac8.css.map",
+    "main.39cc6f78.js.map": "/ReactLocalCommunityPage/static/js/main.39cc6f78.js.map"
   },
   "entrypoints": [
-    "static/css/main.de0898d2.css",
-    "static/js/main.2a53480f.js"
+    "static/css/main.902adac8.css",
+    "static/js/main.39cc6f78.js"
   ]
 }
