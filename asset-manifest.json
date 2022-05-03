@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactLocalCommunityPage/static/css/main.3c3fa70c.css",
-    "main.js": "/ReactLocalCommunityPage/static/js/main.e8b6c0d7.js",
+    "main.css": "/ReactLocalCommunityPage/static/css/main.fc041f98.css",
+    "main.js": "/ReactLocalCommunityPage/static/js/main.3a2b55e0.js",
     "static/media/Flexing-ricardo.gif": "/ReactLocalCommunityPage/static/media/Flexing-ricardo.349e705b5752644f438e.gif",
     "static/media/Drinking.gif": "/ReactLocalCommunityPage/static/media/Drinking.489c0a7bd0d8cad5c49c.gif",
     "static/media/Perfomance-artist.gif": "/ReactLocalCommunityPage/static/media/Perfomance-artist.440b62bf5657f4a827e1.gif",
@@ -25,11 +25,11 @@
     "static/media/userBox.png": "/ReactLocalCommunityPage/static/media/userBox.4d2f73ae77cf9d132c27.png",
     "static/media/WOO.mp3": "/ReactLocalCommunityPage/static/media/WOO.7f40dd8d9f100e75e290.mp3",
     "index.html": "/ReactLocalCommunityPage/index.html",
-    "main.3c3fa70c.css.map": "/ReactLocalCommunityPage/static/css/main.3c3fa70c.css.map",
-    "main.e8b6c0d7.js.map": "/ReactLocalCommunityPage/static/js/main.e8b6c0d7.js.map"
+    "main.fc041f98.css.map": "/ReactLocalCommunityPage/static/css/main.fc041f98.css.map",
+    "main.3a2b55e0.js.map": "/ReactLocalCommunityPage/static/js/main.3a2b55e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c3fa70c.css",
-    "static/js/main.e8b6c0d7.js"
+    "static/css/main.fc041f98.css",
+    "static/js/main.3a2b55e0.js"
   ]
 }
